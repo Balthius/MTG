@@ -16,7 +16,7 @@
 
 ## Summary
 
-In this visualization, I compare how Wizards of the coast have chosen to balance their content over the years, using some of the more 'staple' sets to act as markers 
+In this visualization, I compare how Wizards of the coast have chosen to balance their content over the years
 Some prior knowledge to help understand the dataset:
 - **cardName**: The card name, A Unique Identifier
 - **superType**: A 'Special' identifier on the card, which dictates certain *specific* rules that must be applied to them in addition to the normal rules
@@ -27,8 +27,12 @@ Some prior knowledge to help understand the dataset:
 - **rarity**: The rarity of a card; string
 - **releaseyear**: 1:1 with the card set, but far more useful for data analytics
 
-Data from https://github.com/yhejazi/mtg-web-scraper thanks to Yasmine Hejazi
+As more sets are released, and Wizards of the Coast gets more feedback on how players are interacting with their content, we can see their content begin to stabilize (as seen with Rarity and subtype), and we are also able to see a few examples of Wizards of the Coast using community interest to generate new content that appeals to a variety of audiences (Commander, Modern, as well as others not pointed outin this exploration).
 
+Another great example of player feedback being recognized is the explosive number of 'legendary' supertype cards printed. this is a limiting supertype, but with the release of things like Commander that explicitly depend on building around a selected 'legendary' card, WotC is showing responsiveness to their community's preferred formats rather than exclusively pushing their 'standard' format.
+
+Data from https://github.com/yhejazi/mtg-web-scraper thanks to Yasmine Hejazi
+[Updated Version](https://public.tableau.com/app/profile/josh.folsom/viz/Version4MTGTableauExploration/MTGStory?publish=yes)
 ## Design
 
 ### Version 1
