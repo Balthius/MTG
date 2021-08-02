@@ -32,7 +32,8 @@ As more sets are released, and Wizards of the Coast gets more feedback on how pl
 Another great example of player feedback being recognized is the explosive number of 'legendary' supertype cards printed. this is a limiting supertype, but with the release of things like Commander that explicitly depend on building around a selected 'legendary' card, WotC is showing responsiveness to their community's preferred formats rather than exclusively pushing their 'standard' format.
 
 Data from https://github.com/yhejazi/mtg-web-scraper thanks to Yasmine Hejazi
-[Updated Version](https://public.tableau.com/app/profile/josh.folsom/viz/Version4MTGTableauExploration/MTGStory?publish=yes)
+
+[Updated Version of the Story](https://public.tableau.com/app/profile/josh.folsom/viz/Version4MTGTableauExploration/MTGStory?publish=yes)
 ## Design
 
 ### Version 1
